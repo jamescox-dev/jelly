@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jelly", "Jelly\Jelly.csproj", "{EED246FA-C9D9-4EBF-AA63-8C6C20944405}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jelly.Test", "Jelly.Test\Jelly.Test.csproj", "{4556B7CA-A87C-439C-9888-8FDBC31AF31B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EED246FA-C9D9-4EBF-AA63-8C6C20944405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EED246FA-C9D9-4EBF-AA63-8C6C20944405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EED246FA-C9D9-4EBF-AA63-8C6C20944405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EED246FA-C9D9-4EBF-AA63-8C6C20944405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4556B7CA-A87C-439C-9888-8FDBC31AF31B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4556B7CA-A87C-439C-9888-8FDBC31AF31B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4556B7CA-A87C-439C-9888-8FDBC31AF31B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4556B7CA-A87C-439C-9888-8FDBC31AF31B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
